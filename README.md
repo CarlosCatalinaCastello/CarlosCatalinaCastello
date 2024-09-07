@@ -1,4 +1,4 @@
-<h1 class='text-center tetx-bold'>Hi I`m Carlos Catalina👋</div>
+<h1 class="text-center">Hi I`m Carlos Catalina👋</div>
 <div class='text-center'>App Developer & Programer</div>
 
 <!--
