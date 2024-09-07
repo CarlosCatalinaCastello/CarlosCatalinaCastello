@@ -1,5 +1,5 @@
-<h1 class='text-center'>## Hi I`m Carlos Catalina👋</div>
-App Developer & Programer
+<h1 class='text-center tetx-bold'>Hi I`m Carlos Catalina👋</div>
+<div class='text-center'>App Developer & Programer</div>
 
 <!--
 **CarlosCatalinaCastello/CarlosCatalinaCastello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
